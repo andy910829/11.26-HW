@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\user\onedrive\desktop\跟著釋迦學程式\109360225-胡哲維hw5\p05\source\main.c(12): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+  HWp05.vcxproj -> C:\Users\user\OneDrive\Desktop\跟著釋迦學程式\109360225-胡哲維HW5\p05\HWp05\HWp05\..\..\temp\debug\HWp05.exe
